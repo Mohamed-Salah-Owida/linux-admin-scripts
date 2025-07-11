@@ -20,7 +20,10 @@ A collection of **Bash shell scripts** designed to help practice and demonstrate
   - Disk usage
   - CPU model
   - Logged-in users
-
+- **Disk_monitor.sh**
+  - Checks usage percentage
+  - Warns if usage exceeds threshold (default 80%)
+  - Uses colored terminal output for clear alerts  
 ---
 
 ## 🚀 How to Use
